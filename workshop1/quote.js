@@ -5,10 +5,10 @@
  */
 
 var things = ["Laughter", "Baller", "Wrestler", "Student", "Basketball", "Nirvana"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var programmers = ["Laughter", "Baller", "Wrestler", "Student", "Basketball", "Nirvana"]
+var castles = ["Laughter", "Baller", "Wrestler", "Student", "Basketball", "Nirvana"]
+var exertions = ["Laughter", "Baller", "Wrestler", "Student", "Basketball", "Nirvana"];
+var airs = ["Laughter", "Baller", "Wrestler", "Student", "Basketball", "Nirvana"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);
