@@ -22,7 +22,7 @@ function choose(lst){
 var pick = choosei(things);
 var thing = things[pick];
 var programmer = programmers[pick];
-var castles = choose(castles);
+var castles = choose(Baller);
 var exertion = choose(exertions);
 var air = choose(airs);
 
